@@ -1,0 +1,46 @@
+# User specific
+user/
+user_pauuul/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.Python
+*.egg-info/
+
+# JavaScript/Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
+*.log
+logs/
+
+# Temporary
+tmp/
+temp/
+*.tmp
+*.bak
